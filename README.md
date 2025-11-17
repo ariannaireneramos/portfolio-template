@@ -1,33 +1,20 @@
 # My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+We are the Pit-Crew! All of you have been on the internet right? All of you guys know that on the internet STEM classes and majors are often demonstrated to be incredibly difficult. And don’t get me wrong they can be difficult, but we are going to need the next generation to have a next generation of ideas. Without the new generation, how will we continue to develop the field that you are in now? With our F1 car inspired robot, we can introduce the idea that STEM can be fun to new developing minds. With the combination of a popular subject of entertainment and an engineering field, kids will associate a familiar idea with a new unfamiliar territory. By building our F1 inspired robot and watching it work by following them around, kids will have fun while doing something traditionally difficult. Our group is a combination of mechanical and biomedical engineers as well as people who have been in the position of wanting to explore STEM. This gives us special qualifications to relate to our audience and deliver a product they will learn from and have fun with.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** this is where our lovely video (when all are compiled together ! will go
 
-![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** Arduino
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This is where the user manual will go
+this is where the adventure of the building of our lovely robot will go
 
-## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+what we learned :3
 
 
 
